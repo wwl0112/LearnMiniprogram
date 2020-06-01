@@ -1,0 +1,4 @@
+<!--Page/home/home.wxml-->
+<text class="title">Hellow  world!</text>
+<button size="mini">按钮</button>
+<image src=""></image>
